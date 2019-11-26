@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">KotlinLearning</string>
+    <string name="hello_world">Hello World</string>
+    <string name="Invalid_Email_Length_or_Format">Invalid Email Length or Format</string>
+    <string name="Invalid_Password_Length">Invalid Password Length</string>
+    <string name="Invalid_Name_Address">Invalid Name/Address</string>
 </resources>
